@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI light';
+}
+span{
+    color: cadetblue;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+}
+.item{
+    
+    text-align: center;
+    width: 32%;
+    display: inline-block;
+}
+.item img{
+    width: 100%;
+}
+button{
+    background-color: transparent;
+    border-radius: 20%;
+    padding: 10px 15px;
+    border-color: cadetblue;
+}
